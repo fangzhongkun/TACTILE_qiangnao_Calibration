@@ -1,0 +1,1656 @@
+[周六 2026/10/31 19:49:13.90] package start 
+CPack: Create package using ZIP
+CPack: Install projects
+CPack: - Install project: forceTactileCalibration [Release]
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/d3d11.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/d3d11.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/dxgi.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/dxgi.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/d3d12.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/d3d12.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/gdi32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/gdi32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/ole32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/ole32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/shell32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/shell32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/user32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/user32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/uxtheme.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/uxtheme.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/dwrite.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/dwrite.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/mpr.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/mpr.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/userenv.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/userenv.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/advapi32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/advapi32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/authz.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/authz.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/kernel32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/kernel32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/netapi32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/netapi32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/ntdll.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/ntdll.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/ole32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/ole32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/shell32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/shell32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/user32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/user32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/version.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/version.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/winmm.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/winmm.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/ws2_32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/ws2_32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/icuuc.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/icuuc.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/msvcp140.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/msvcp140.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/msvcp140_1.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/msvcp140_1.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/vcruntime140.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/vcruntime140.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/vcruntime140_1.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/vcruntime140_1.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/oleaut32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/oleaut32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/kernel32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/kernel32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/msvcp140.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/msvcp140.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/msvcp140_1.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/msvcp140_1.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/msvcp140_2.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/msvcp140_2.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/vcruntime140.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/vcruntime140.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/vcruntime140_1.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/vcruntime140_1.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/vcruntime140.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/vcruntime140.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/kernel32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/kernel32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/dwmapi.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/dwmapi.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/uxtheme.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/uxtheme.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/kernel32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/kernel32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/user32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/user32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/gdi32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/gdi32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/msvcp140.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/msvcp140.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/msvcp140_1.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/msvcp140_1.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/vcruntime140.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/vcruntime140.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/vcruntime140_1.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/vcruntime140_1.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/vcruntime140.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/vcruntime140.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/kernel32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/kernel32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/user32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/user32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/msvcp140.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/msvcp140.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/vcruntime140.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/vcruntime140.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/kernel32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/kernel32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/user32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/user32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/dbghelp.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/dbghelp.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/shell32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/shell32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/dwmapi.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/dwmapi.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/ntdll.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/ntdll.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/setupapi.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/setupapi.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/kernel32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/kernel32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/advapi32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/advapi32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/msvcp140.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/msvcp140.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/msvcp140_atomic_wait.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/msvcp140_atomic_wait.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/vcruntime140.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/vcruntime140.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/vcruntime140_1.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/vcruntime140_1.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+'D:/Qt/6.11.2/msvc2022_64/bin/windeployqt.exe' 'E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/Release/forceTactileCalibration.exe' '--dir' '.' '--libdir' '.' '--plugindir' '.' '--qml-deploy-dir' 'qml' '--translationdir' 'translations' '--force' '--no-translations' '--no-compiler-runtime' '--qtpaths' 'D:/Qt/6.11.2/msvc2022_64/bin/qtpaths6.exe' '--no-opengl-sw' '--no-system-d3d-compiler'
+Warning: Cannot find any version of the dxcompiler.dll and dxil.dll. This is not a problem unless Direct3D 12 and certain features are used by the application.
+E:\CPack: Create package
+CPack: - package: E:/项目/强脑手套/V2.0/源码/Calibration/tmp/package_lut_mn/forceTactileCalibration-0.1.2601010000-Windows-AMD64.zip generated.
+CPack: - checksum file: E:/项目/强脑手套/V2.0/源码/Calibration/tmp/package_lut_mn/forceTactileCalibration-0.1.2601010000-Windows-AMD64.zip.sha512 generated.
+ZIP_EXIT=0 
+CPack: Create package using NSIS
+CPack: Install projects
+CPack: - Install project: forceTactileCalibration [Release]
+CPack: -   Install component: Applications
+CPack: -   Install component: Development
+CPack: -   Install component: Runtime
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/mpr.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/mpr.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/userenv.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/userenv.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/advapi32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/advapi32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/authz.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/authz.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/kernel32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/kernel32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/netapi32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/netapi32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/ntdll.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/ntdll.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/ole32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/ole32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/shell32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/shell32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/user32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/user32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/version.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/version.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/winmm.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/winmm.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/ws2_32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/ws2_32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/icuuc.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/icuuc.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/msvcp140.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/msvcp140.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/msvcp140_1.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/msvcp140_1.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/vcruntime140.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/vcruntime140.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/vcruntime140_1.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/vcruntime140_1.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/oleaut32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/oleaut32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/vcruntime140.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/vcruntime140.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/kernel32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/kernel32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/vcruntime140.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/vcruntime140.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/kernel32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/kernel32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/user32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/user32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/msvcp140.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/msvcp140.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/vcruntime140.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/vcruntime140.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/kernel32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/kernel32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/user32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/user32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/dbghelp.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/dbghelp.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/shell32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/shell32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/dwmapi.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/dwmapi.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/ntdll.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/ntdll.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/setupapi.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/setupapi.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/kernel32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/kernel32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/advapi32.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/advapi32.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/msvcp140.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/msvcp140.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/msvcp140_atomic_wait.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/msvcp140_atomic_wait.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/vcruntime140.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/vcruntime140.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CMake Warning (policy) at E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/cmake_install.cmake:132 (file):
+  Policy CMP0207 is not set: file(GET_RUNTIME_DEPENDENCIES) normalizes paths
+  before matching.  Run "cmake --help-policy CMP0207" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  Path
+
+    "C:\Windows\system32/vcruntime140_1.dll"
+
+  would be converted to
+
+    "C:/Windows/system32/vcruntime140_1.dll"
+
+This warning is for project developers.  Use -Wno-author or -Wno-policy to
+suppress it.
+
+CPack: -   Install component: Unspecified
+'D:/Qt/6.11.2/msvc2022_64/bin/windeployqt.exe' 'E:/项目/强脑手套/V2.0/源码/Calibration/build-point-display/Release/forceTactileCalibration.exe' '--dir' '.' '--libdir' '.' '--plugindir' '.' '--qml-deploy-dir' 'qml' '--translationdir' 'translations' '--force' '--no-translations' '--no-compiler-runtime' '--qtpaths' 'D:/Qt/6.11.2/msvc2022_64/bin/qtpaths6.exe' '--no-opengl-sw' '--no-system-d3d-compiler'
+Warning: Cannot find any version of the dxcompiler.dll and dxil.dll. This is not a problem unless Direct3D 12 and certain features are used by the application.
+E:\CPack: Create package
+CPack: - package: E:/项目/强脑手套/V2.0/源码/Calibration/tmp/package_lut_mn/forceTactileCalibration-0.1.2601010000-Windows-AMD64.exe generated.
+CPack: - checksum file: E:/项目/强脑手套/V2.0/源码/Calibration/tmp/package_lut_mn/forceTactileCalibration-0.1.2601010000-Windows-AMD64.exe.sha512 generated.
+NSIS_EXIT=0 
+[周六 2026/10/31 19:50:05.44] package end 

@@ -1,0 +1,24 @@
+[submodule "3rdparty/glog"]
+	path = 3rdparty/glog
+	url = https://github.com/google/glog.git
+[submodule "3rdparty/fmt"]
+	path = 3rdparty/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "3rdparty/probe"]
+	path = 3rdparty/probe
+	url = https://github.com/ffiirree/probe.git
+[submodule "3rdparty/libtouch"]
+	path = 3rdparty/libtouch
+	url = https://github.com/ffiirree/libtouch.git
+[submodule "3rdparty/cmake-modules"]
+	path = 3rdparty/cmake-modules
+	url = https://github.com/ffiirree/cmake-modules
+[submodule "3rdparty/whisper"]
+	path = 3rdparty/whisper
+	url = https://github.com/ffiirree/whisper
+[submodule "3rdparty/json"]
+	path = 3rdparty/json
+	url = https://github.com/nlohmann/json.git
+[submodule "3rdparty/exprtk"]
+	path = 3rdparty/exprtk
+	url = https://github.com/ArashPartow/exprtk.git
